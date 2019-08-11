@@ -19,3 +19,4 @@ Scrapy==1.6.0
 seaborn==0.9.0
 spacy==2.1.4
 TPOT==0.10.1
+pydot==1.4.1
