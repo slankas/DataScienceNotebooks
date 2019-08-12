@@ -1,2 +1,6 @@
 graphviz
 ghostscript
+libgeos-dev
+libproj-dev
+proj-data
+proj-bin
