@@ -27,3 +27,4 @@ missingno
 cython
 cartopy
 geoplot
+pyproj
