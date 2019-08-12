@@ -25,5 +25,6 @@ statsmodels>=0.10.0rc2
 pydataset>=0.2.0
 missingno
 cython
+proj4
 cartopy
 geoplot
