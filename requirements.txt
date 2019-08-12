@@ -26,3 +26,4 @@ pydataset>=0.2.0
 missingno
 cython
 pyod
+pydataset
