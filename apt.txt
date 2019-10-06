@@ -4,3 +4,4 @@ libgeos-dev
 libproj-dev
 proj-data
 proj-bin
+xdg-utils
