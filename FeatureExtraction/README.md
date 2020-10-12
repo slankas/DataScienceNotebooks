@@ -4,8 +4,8 @@ You can run these Python notebooks through either Google's Colaboratory environm
 | | Notebook|  Execute in Google Colab |
 |-|-|-|
 |1| Feature Selection | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/1%20-%20Feature%20Selection.ipynb)  |
-|2| PCA | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/3%20-%20PCA.ipynb)  |
-|3| LDA vs PCA | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/3%20-%20LDA%20vs.%20PCA.ipynb)  |
+|2| PCA | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/2%20-%20PCA.ipynb)  |
+|3| LDA vs PCA | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/3%20-%20LDA%20vs.%20PCA%20-%20Iris.ipynb)  |
 |4| IsoMap | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/4%20-%20IsoMap.ipynb)  |
 |5| K Means | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/5%20-%20kmeans.ipynb)  |
 |6| Hierarchical Clustering | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/FeatureExtraction/6%20-%20Hierarchical%20Clustering.ipynb)  |
