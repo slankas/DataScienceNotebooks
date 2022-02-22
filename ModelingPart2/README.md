@@ -7,6 +7,6 @@ You can run these Python notebooks through either Google's Colaboratory environm
 | Trees | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/2%20-%20Trees.ipynb)  |
 | Trees - Gradiant Boosting | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/2%20-%20Trees,%20Gradiant%20Boosting.ipynb)  |
 | SVMs | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/3%20-%20SVMs.ipynb)  |
-| Linear Regression | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/5%20-%20Linear%20Regression.ipynb)  |
+| Naive Bayes - Gaussian | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/4%20-%20NaiveBayes%20-%20Gaussian%20-%20Iris.ipynb)  |
 | Linear Regression - Advertising | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/5a%20-%20Linear%20Regressions%20-%20Advertising.ipynb)  |
 | Logistic Regression | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/6%20-%20Logistic%20Regression.ipynb)  |
