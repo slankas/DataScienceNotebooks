@@ -4,7 +4,7 @@ You can run these Python notebooks through either Google's Colaboratory environm
 | Notebook|  Execute in Google Colab |
 |-|-|
 | Bootstrapping | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/1%20-%20632%20Bootstrap.ipynb)  |
-| Trees | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/2%20-%20Model%20Validation%2C%20data%20sets.ipynb)  |
+| Trees | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/2%20-%20Trees.ipynb)  |
 | Performance Measurements | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/3%20-%20Performance.ipynb)  |
 | Bias vs Variance | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/4%20-%20Bias%20vs%20Variance.ipynb)  |
 | Linear Regression | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/5%20-%20Linear%20Regression.ipynb)  |
