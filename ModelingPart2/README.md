@@ -11,3 +11,4 @@ You can run these Python notebooks through either Google's Colaboratory environm
 | Naive Bayes - Text Classifications | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/5%20-%20Naive%20Bayes%20Text%20Classification.ipynb)  |
 | Linear Regression | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/LinearRegression%20-%20BostonHousing.ipynb)  |
 | Exercise 1 - Trees | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/Exercise1%20-%20Trees.ipynb)  |
+| Exercise 2 - Digits | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/ModelingPart2/Exercise2%20-%20digits.ipynb)  |
