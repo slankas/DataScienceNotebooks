@@ -8,5 +8,5 @@ You can run these Python notebooks through either Google's Colaboratory environm
 | Pipeline (Speeches) | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/3%20-%20Speeches.ipynb)  |
 | Text Classification | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/4%20-%20Text%20Classification.ipynb)  |
 | Topic Modeling | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/5%20-%20Topic%20Modeling.ipynb)  |
-| Summerization | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/6%20-%20Summerization.ipynb)  |
+| Summarization | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/6%20-%20Summarization.ipynb)  |
 | Keyphrase Extraction | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/7%20-%20Keyphrase%20Extraction.ipynb)  |
