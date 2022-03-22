@@ -3,7 +3,7 @@ You can run these Python notebooks through either Google's Colaboratory environm
 
 | Notebook|  Execute in Google Colab |
 |-|-|
-| Representation | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/1%20-%20Represntation.ipynb)  |
+| Representation | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/1%20-%20Representation.ipynb)  |
 | Embeddings | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/2%20-%20Embeddings.ipynb)  |
 | Pipeline (Speeches) | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/3%20-%20Speeches.ipynb)  |
 | Text Classification | [Open](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/Text%20Analytics/4%20-%20Text%20Classification.ipynb)  |
