@@ -11,7 +11,7 @@ Introduction to Python Notebooks
 1. [Formatting Strings](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/08-FormattingStrings.ipynb)
 1. [Lists](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/09-Lists.ipynb)
 1. [Tuples](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/10-Tuples.ipynb)
-1. [Random Numbers](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/10.5-Random%20Numbers.ipynb)
+1. [Random Numbers](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/10.5-RandomNumbers.ipynb)
 1. [Iteration](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/11-Iteration.ipynb)
 1. [Dictionaries](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/13-Dictionaries.ipynb)
 1. [Sets](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/14-Sets.ipynb)
