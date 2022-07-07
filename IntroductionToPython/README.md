@@ -16,6 +16,7 @@ Introduction to Python Notebooks
 1. [Dictionaries](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/13-Dictionaries.ipynb)
 1. [Sets](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/14-Sets.ipynb)
 1. [Files](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/15-Files.ipynb)
+1. [File Operations](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/15.2-FileOperations.ipynb)
 1. [Recursion](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/15.5-Recursion.ipynb)
 1. [JSON](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/16-JSON.ipynb)
 1. [Validation, Exceptions, and Error Handling](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/17-Validation,ExceptionsAndErrorHandling.ipynb)
