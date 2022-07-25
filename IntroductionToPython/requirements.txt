@@ -1,0 +1,10 @@
+seaborn
+google
+scikit-learn
+certifi
+pendulum
+jupyter
+jupyterlab
+jupyterlab-git
+lckr-jupyterlab-variableinspector
+coverage
