@@ -28,3 +28,4 @@ Introduction to Python Notebooks
 1. [Preconditions, Postconditions, Invariants, and Assertions](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/30-Preconditions,Postconditions,Invariants,andAssertions.ipynb)
 1. [Comprehensions](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/32-Comprehensions.ipynb)
 1. [Dates and Times](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/34-DateTime.ipynb)
+1. [Finite Automata and Regular Expressions](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/36-RegularExpressions.ipynb)
