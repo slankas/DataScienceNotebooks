@@ -1,5 +1,4 @@
 Introduction to Python Notebooks
-1. [Preliminaries](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/00-Preliminaries.ipynb)
 1. [Introduction](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/01-Introduction.ipynb)
 1. [Problem Solving by Programming](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/01.5-ProblemSolvingByProgramming.ipynb)
 1. [Types, Values, Variables, Names](http://colab.research.google.com/github/slankas/DataScienceNotebooks/blob/master/IntroductionToPython/02-Types,Values,Variables,Names.ipynb)
